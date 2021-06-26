@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: ccec610543354a547b97b6e617e9f083
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -625259059097971334
+    second: Red_CoinBoss_0
+  - first:
+      213: 2879207204706986031
+    second: Red_CoinBoss_1
+  - first:
+      213: -4751197734590280966
+    second: Red_CoinBoss_2
+  - first:
+      213: -1426369295140543806
+    second: Red_CoinBoss_3
+  - first:
+      213: -105061750763550592
+    second: Red_CoinBoss_4
+  - first:
+      213: 4575727947075641102
+    second: Red_CoinBoss_5
+  - first:
+      213: -131694117532585637
+    second: Red_CoinBoss_6
+  - first:
+      213: 7766452626511312236
+    second: Red_CoinBoss_7
+  - first:
+      213: -7158430117645826714
+    second: Red_CoinBoss_8
+  - first:
+      213: 2918215809971552181
+    second: Red_CoinBoss_9
+  - first:
+      213: -18960812781658565
+    second: Red_CoinBoss_10
+  - first:
+      213: -3253037607913609476
+    second: Red_CoinBoss_11
+  - first:
+      213: 997663954732607439
+    second: Red_CoinBoss_12
+  - first:
+      213: 8802795505316645760
+    second: Red_CoinBoss_13
+  - first:
+      213: 3321544544431012990
+    second: Red_CoinBoss_14
+  - first:
+      213: 3224205600033050631
+    second: Red_CoinBoss_15
+  - first:
+      213: -5381792283524552071
+    second: Red_CoinBoss_16
+  - first:
+      213: -3613504431287005786
+    second: Red_CoinBoss_17
+  - first:
+      213: -1085162731448245408
+    second: Red_CoinBoss_18
+  - first:
+      213: -4476527136405707704
+    second: Red_CoinBoss_19
+  - first:
+      213: -4957208618624597358
+    second: Red_CoinBoss_20
+  - first:
+      213: -4389669757434772851
+    second: Red_CoinBoss_21
+  - first:
+      213: 8550792382774580527
+    second: Red_CoinBoss_22
+  - first:
+      213: 7821207995215320265
+    second: Red_CoinBoss_23
+  - first:
+      213: -3487583044550808162
+    second: Red_CoinBoss_24
+  - first:
+      213: 4929503538043607010
+    second: Red_CoinBoss_25
+  - first:
+      213: 5530461501537252467
+    second: Red_CoinBoss_26
+  - first:
+      213: 6376300210364758726
+    second: Red_CoinBoss_27
+  - first:
+      213: 6318608507442445998
+    second: Red_CoinBoss_28
+  - first:
+      213: 4995376450608796429
+    second: Red_CoinBoss_29
+  - first:
+      213: -4790952654223718525
+    second: Red_CoinBoss_30
+  - first:
+      213: 5866867601645652778
+    second: Red_CoinBoss_31
+  - first:
+      213: 299470692780269457
+    second: Red_CoinBoss_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red_CoinBoss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75ded1d232a257f0800000000000000
+      internalID: -625259059097971334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f282e4fa2bff4f720800000000000000
+      internalID: 2879207204706986031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa0b1455da501eb0800000000000000
+      internalID: -4751197734590280966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2af9ceea4843ce0800000000000000
+      internalID: -1426369295140543806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0880242f4eeba8ef0800000000000000
+      internalID: -105061750763550592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f554a1350408f30800000000000000
+      internalID: 4575727947075641102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b513679d5e02c2ef0800000000000000
+      internalID: -131694117532585637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c653b10f38bf7cb60800000000000000
+      internalID: 7766452626511312236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66543482cb528ac90800000000000000
+      internalID: -7158430117645826714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf784b51d59f7820800000000000000
+      internalID: 2918215809971552181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e1f71cd33acbff0800000000000000
+      internalID: -18960812781658565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6a25be783ead2d0800000000000000
+      internalID: -3253037607913609476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc76c0bb41a68dd00800000000000000
+      internalID: 997663954732607439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bcdc47fdfc92a70800000000000000
+      internalID: 8802795505316645760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c72743a2f781e20800000000000000
+      internalID: 3321544544431012990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_15
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7009bc029edaebc20800000000000000
+      internalID: 3224205600033050631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aa49d9e680055b0800000000000000
+      internalID: -5381792283524552071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad86da6dd04addc0800000000000000
+      internalID: -3613504431287005786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_18
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063e884ce3ab0f0f0800000000000000
+      internalID: -1085162731448245408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_19
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844242f794e20e1c0800000000000000
+      internalID: -4476527136405707704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29240699605743bb0800000000000000
+      internalID: -4957208618624597358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_21
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8243d2fc92c413c0800000000000000
+      internalID: -4389669757434772851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_22
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25156b3e548aa670800000000000000
+      internalID: 8550792382774580527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4114dab338a8c60800000000000000
+      internalID: 7821207995215320265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_24
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dafd0f2bd999fc0800000000000000
+      internalID: -3487583044550808162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_25
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7de18a95d196440800000000000000
+      internalID: 4929503538043607010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_26
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374f91b1f6520cc40800000000000000
+      internalID: 5530461501537252467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_27
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca3a0c124b2d7850800000000000000
+      internalID: 6376300210364758726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_28
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae3ed8c5f430b750800000000000000
+      internalID: 6318608507442445998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_29
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0393e94a64235540800000000000000
+      internalID: 4995376450608796429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_30
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387c74dc1fd138db0800000000000000
+      internalID: -4790952654223718525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CoinBoss_31
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b465ceffc4b6150800000000000000
+      internalID: 5866867601645652778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
